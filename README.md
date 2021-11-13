@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ... Convolution Neural Network
 - 📫 How to reach me: ... ruchisharma2460@gmail.com
 - 😄 Pronouns: ... Programmer/Coder
-- ⚡ Fun fact: ... Be funny😁
+- ⚡ Fun fact: ... Be funny
 
 ## Skills
 -C,C++,Java,SQL,Python👩🏻‍💻
